@@ -1,1 +1,1 @@
-# proyecto-microsip
+# proyecto-microsip (api de articulos)
